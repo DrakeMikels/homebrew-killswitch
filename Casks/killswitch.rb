@@ -1,8 +1,8 @@
 cask "killswitch" do
-  version "1.0.0"
-  sha256 "dfab6a499ff60b2924cb53665c48d448ed1d47736ab9961cd58bbd98250d57d4"
+  version "1.0.1"
+  sha256 "09352b3f5d5b99f2f97807b907d0c49b54cede99a3852decd1171afe9a1dcbe1"
 
-  url "https://github.com/DrakeMikels/KillSwitch/releases/download/v1.0.0/KillSwitch.zip"
+  url "https://github.com/DrakeMikels/KillSwitch/releases/download/v1.0.1/KillSwitch.zip"
   name "KillSwitch"
   desc "Lightweight macOS menu bar utility for seeing memory pressure and quickly quitting heavy apps"
   homepage "https://github.com/DrakeMikels/KillSwitch"
